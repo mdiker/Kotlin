@@ -15,8 +15,4 @@ fun main(args : Array<String>)
    {
        println(myArray[i])
     }
-
-
-
-
 }
